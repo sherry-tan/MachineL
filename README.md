@@ -1,1 +1,3 @@
-Assignments from Machine Learning by Andrew Ng(Stanford) on Coursera. Helper codes/functions provided by Coursera and are identified in the .pdf files
+Assignments completed as part of the Machine Learning Course by Andrew Ng(Stanford) on 
+Coursera. Helper codes/functions were provided by Coursera and are identified in the 
+.pdf files
